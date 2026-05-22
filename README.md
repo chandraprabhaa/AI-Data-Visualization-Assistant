@@ -27,7 +27,7 @@ Built with Streamlit and Pandas to provide dataset preview, basic dataset inform
 
 ### Dataset Preview
 
-![Dataset Preview](ai visual 1.png)
+![Dataset Preview]([ai visual 1.png](https://github.com/chandraprabhaa/AI-Data-Visualization-Assistant/blob/main/ai%20visual%201.png))
 
 ### AI Generated Insights
 

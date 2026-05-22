@@ -9,7 +9,7 @@ import os
 load_dotenv()
 
 client = Groq(
-    api_key=os.getenv("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")
+    api_key=os.getenv("your_api_key")
 )
 
 st.title("📊 AI Data Visualization Assistant")

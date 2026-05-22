@@ -27,10 +27,12 @@ Built with Streamlit and Pandas to provide dataset preview, basic dataset inform
 
 ### Dataset Preview
 
-![Dataset Preview][ai visual 1.png]
+![Dataset Preview](ai%20visual%201.png)
+
 ### AI Generated Insights
 
-![AI Insights][ai visual 2.png)]
+![AI Insights](ai%20visual%202.png)
+
 
 ---
 
